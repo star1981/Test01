@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/faridelhaouzi/Atelier/_apis/build/status/star1981.Test01?branchName=master)](https://dev.azure.com/faridelhaouzi/Atelier/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
